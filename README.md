@@ -1,4 +1,4 @@
 # Brite-app
 This is my current project
 <br/>
-Author name-Danish khan
+Author name-Danish A Khan
