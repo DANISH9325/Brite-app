@@ -1,2 +1,3 @@
 # Brite-app
-this is my current project
+This is my current project
+Author name-Danish khan
